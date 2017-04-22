@@ -1,4 +1,4 @@
-#FX-Other-Integrations
+# FX-Other-Integrations
 
 ## Overview
 #### Summary
@@ -15,16 +15,16 @@ This integration is accomplished via [Dynamic Data Exchange (DDE)](https://en.wi
 
 1. When using the Excel spreadsheet, MT4 client terminal must active and logged into an account.
 
-##**Installation**
+## **Installation**
 1. Clone or download desired MT4-DDE-Integration.xlsx file from this repository.
 
 2. Launch MT4-DDE-Integration.xlsx after completed the steps outlined in 'Requirements' section above.
 
 4. When asked, select 'Update' external links.
 
-##Version History
+## Version History
 
-####MT4 DDE Integration
-######1.0.mmdd2012
+#### MT4 DDE Integration
+###### 1.0.mmdd2012
 - ***Initial release***
 - Created circa 2012
