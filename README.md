@@ -1,4 +1,4 @@
-# FX-Other-Integrations
+# FXCM-Other-Integrations
 
 ## Overview
 #### Summary
